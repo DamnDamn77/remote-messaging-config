@@ -1,5 +1,32 @@
 {
-  "version": 23,
-  "messages": [],
-  "rules": []
+  "version": 24,
+  "messages": [
+
+    {
+      "id": "1",
+      "content": {
+        "messageType": "big_two_action",
+        "titleText": "Protect Your Inbox",
+        "descriptionText": "Get your @duck.com forwarding address and start blocking hidden email trackers today!",
+        "placeholder": "AppUpdate",
+        "primaryActionText": "Sign Up",
+        "primaryAction": {
+          "type": "url",
+          "value": "https://duckduckgo.com/email"
+        },
+        "secondaryActionText": "Learn More",
+        "secondaryAction": {
+          "type": "url",
+          "value": "https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/"
+        }
+      },
+      "matchingRules": [],
+      "exclusionRules": []
+    }
+	
+
+  ],
+  "rules": [
+    
+  ]
 }
