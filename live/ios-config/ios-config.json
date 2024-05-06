@@ -7,7 +7,7 @@
       "content": {
         "messageType": "big_two_action",
         "titleText": "Protect Your Inbox",
-        "descriptionText": "Get your @duck.com forwarding address and start blocking hidden email trackers today!",
+        "descriptionText": "Get your @duck.com forwarding address and start blocking hidden email trackers\u{00a0}today!",
         "placeholder": "Announce",
         "primaryActionText": "Sign Up",
         "primaryAction": {
