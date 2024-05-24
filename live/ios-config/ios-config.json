@@ -1,6 +1,18 @@
 {
-  "version": 36,
+  "version": 37,
   "messages": [
+    
+    {
+      "id": "1-1",
+      "content": {
+        "messageType": "small",
+        "titleText": "Brindy Test 3",
+        "descriptionText": "This is placeholder text lorem ipsum dolor sit amet, adipiscing elit."
+      },
+      "matchingRules": [],
+      "exclusionRules": []
+    }
+
   ],
   "rules": []
 }
