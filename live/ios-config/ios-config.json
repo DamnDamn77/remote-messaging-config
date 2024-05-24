@@ -1,5 +1,18 @@
 {
-  "version": 32,
-  "messages": [],
+  "version": 33,
+  "messages": [
+    
+    {
+      "id": "1-1",
+      "content": {
+        "messageType": "small",
+        "titleText": "Placeholder Title",
+        "descriptionText": "This is placeholder text lorem ipsum dolor sit amet, adipiscing elit."
+      },
+      "matchingRules": [],
+      "exclusionRules": []
+    }
+
+  ],
   "rules": []
 }
